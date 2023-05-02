@@ -1,0 +1,558 @@
+﻿Well #,Season,GPS ,Name of Village,State as of 2016
+1,2005,"N: 8' 31' 136"" E: 28' 56' 579""",Akok ,Tonj 
+2,2005,"N: 8' 33' 238"": E: 028' 55' 338""",Pankor,Tonj 
+3,2005,"N: 08' 32' 595"" E: 028' 57' 104""",Moch,Tonj 
+4,2005,,Thonyiik,
+5,2005,"N: 08' 31' 491"" E: 028' 57' 590.3""",Akuach,Tonj 
+6,2006,"N: 08' 23' 755"" E: 028' 41' 130""",Aliek Primary School,Tonj 
+7,2006,"N: 08' 07' 260"" E: 028' 38' 947""",Makol,Tonj 
+8,2007,,Tonj  Girl's School,Tonj 
+9,2007,"N: 08' 34' 549"" E: 028' 52' 325""",Maluok,Tonj 
+10,2007,,Wunkuel ,Tonj 
+11,2007,"N: 08' 32' 432"" E: 51' 261""",Machar Pakuak,Tonj 
+12,2007,"N: 08' 33' 449"" E: 028' 51' 223""",Panakot ,Tonj 
+13,2007,"N: 08' 30' 572"" E: 028' 55' 226""",Boul,Tonj 
+14,2007,"N: 08' 34' 347"" E: 028' 55' 456""",Bonwad,Tonj 
+15,2007,"N: 08' 35' 098"" E: 028' 50' 490""",Maper ,Tonj 
+16,2007,"N: 08' 35' 571"" E: 028' 49' 218"" ",Majak,Tonj 
+17,2007,"N: 8. 614285"" E: 28. 745443""",Achierchok,Tonj 
+18,2008,"N: 08' 33' 186"" E: 028' 41' 111""",Abilnyang,Tonj 
+19,2008,"N: 8. 306762"" E: 27. 912833""",Kuacjok,Gogrial
+20,2008,"N: 8. 308124"" E: 27. 975940""",Kuajok,Gogrial
+21,2008,"N: 8. 305501"" E: 27. 974567""",Kuajok,Gogrial
+22,2008,"N: 8.310846"" E: 27.979081""", Kuacjok Town,Gogrial
+23,2008,"N: 8. 313380"" E: 27. 986028""",Kuajok,Gogrial
+24,2008,"N: 8. 303265"" E: 27. 986303""",Kuajok,Gogrial
+25,2008,"N: 8. 312885"" E: 27. 988962""",Kuajok,Gogrial
+26,2008,"N: 8. 310069"" E: 27. 967935""",Kuajok,Gogrial
+27,2008,,Kuajok,Gogrial
+28,2008,,Kuajok,Gogrial
+29,2008,"N: 8. 356901"" E: 27. 924302""",Malual monyjoc Primary School,Gogrial
+30,2009,"N: 08' 09' 445"" E: 028' 17' 847""",Lacdiit,Gogrial
+31,2009,"N: 08' 10' 405"" E: 028' 17' 521""",Lacdiit Yiik,Gogrial
+32,2009,"N: 08' 09' 131"" E: 028' 20' 468""",Pan-nhial,Gogrial
+33,2009,"N: 08' 22' 717"" E: 028' 23' 673""",Abei,Gogrial
+34,2009,"N: 08' 21' 449"" E: 028' 25' 193""",Juol,Gogrial
+35,2009,"N: 08' 21' 500"" E: 028' 24' 095""",Machar,Gogrial
+36,2009,"N: 8. 883643"" E: 28.  021825""",Lang village,Gogrial
+37,2009,"N: 8. 878717"" E: 28. 026371""",Lang Primary School,Gogrial
+38,2009,"N: 8. 946779"" E: 27. 863015""",Maduol ,Gogrial
+39,2009,"N: 8. 938448"" E: 27. 835136""",Awich,Gogrial
+40,2009,"N: 8. 950228"" E: 28. 847855""",Abooth,Gogrial
+41,2009,,Ariang Primary School,
+42,2009,"N: 7. 710770"" E: 28. 032771""",WFS Old compound in Wau,Wau
+43,2009,,Malek Girl's School,
+44,2009,"N: 07' 42' 007"" E: 028' 00' 710""",Bahr-Sherki,Wau
+45,2010,"N: 08' 04' 419"" E: 028' 31' 189.6"".",Riangalek-E,Gogrial
+46,2010,"N: 08' 16' 744"" E: 028' 50' 575""",Mayar Ajang,Tonj 
+47,2010,"N: 08' 16' 853"" E: 028' 50' 483""",Mayar Ajang,Tonj 
+48,2010,"N: 08' 11' 979"" E: 028' 44' 413""",Achier,Tonj 
+49,2010,,Boriak-Mathiang,
+50,2010,"N: 08' 24' 321"" E: 028' 38' 502""",Wunliet,Tonj 
+51,2010,"N: 08' 17' 223"" E: 028' 24' 258""",Amouthich,Gogrial
+52,2010,"N: 07' 46' 423"" E: 027' 59' 392""",Zagalona (Alelchok),Wau
+53,2010,,Pagak,
+54,2010,"N: 07' 42' 781"" E: 028' 01' 872""",Bahr-Sherki ( Eastern Bank),Wau
+55,2010,"N: 07' 42' 818"" E: 028' 02' 083""",Bahr-Sherki,Wau
+56,2010,"N: 07' 45' 422"" E: 027' 59' 394""",Athou,
+57,2010,"N: 07'45' 616"" E: 028' 07' 223""",Lol Athian,Wau
+58,2010,"N: 08' 13' 890"" E: 028' 34' 890""",Maker,Gogrial
+59,2010,"N: 07' 59' 924"" E: 028' 10' 345""",Wunngot,Wau
+60,2010,"N: 08' 15' 736"" E: 028' 37' 339""",Tokyiep,Gogrial
+61,2010,"N: 07' 54' 776"" E: 028' 09'735""",Wargol,Wau
+62,2010,"N: 08' 05' 234"" E: 028' 15' 335""",Tiitmayom,Gogrial
+63,2010,"N: 07' 54' 199"" E: 028' 08' 489""",Bar Amiyok,Wau
+64,2010,"N: 08' 06' 295"" E: 028' 10' 580""",Adiet,Wau
+65,2010,"N: 07' 54' 392"" E: 028' 06' 604""",Lojo,Wau
+66,2010,"N: 08' 06' 120"" E: 028' 15' 454""",Wuntim,Gogrial
+67,2010,"N: 07' 40' 616"" E: 028' 07' 223""",Angothol,Wau
+68,2010,"N: 07' 40' 998"" E: 028' 05' 942""",Lelkang,Wau
+69,2010,,Maiwut,
+70,2010,"N: 07' 41' 389"" E: 028' 02' 481""",Alab,Wau
+71,2010,"N: 07' 42' 840"" E: 028' 01' 747""", Zerah (Fadali School),Wau
+72,2010,"N: 07' 41' 308"" E: 028' 01' 831""",Abunybuny,Wau
+73,2010,,Malek Amal,Wau
+74,2010,"N: 07' 42' 208"" E: 028' 01' 669""",Eastern Bank Market,Wau
+75,2010,"N: 07' 42' 818"" E: 028' 02' 426""",Sumuot,Wau
+76,2010,,School Majak,
+77,2011,"N: 08' 29' 415"" E: 028' 56' 555""",Thattiikmuoc,Tonj 
+78,2011,,Ayuak,
+79,2011,,Damagea,
+80,2011,,Anoon,
+81,2011,,Dateng,Wau
+82,2011,,Tobaween,Wau
+83,2011,"N: 08' 12' 010"" E: 028' 44' 262""",Awuol,Tonj 
+84,2011,"N: 07' 40' 349"" E: 028' 06' 484",Bhol,Wau
+85,2011,"N: 07' 44' 967"" E: 028' 08' 669""",Wingo,Wau
+86,2011,"N: 08' 13' 869"" E: 028' 22' 598""",Luonyakeer,Gogrial
+87,2011,,Malual-amuk,
+88,2011,,Liidich,
+89,2011,"N: 8. 561110"" E: 28. 722675""",Amoukou,Tonj 
+90,2011,"N: 08' 09' 900"": E: 028' 09' 553""",Mabior -Abun Pimary School,Wau
+91,2011,"N: 08' 17' 520"" E: 028' 49' 543""",Ayibuth,Tonj 
+92,2011,"N: 08' 13' 225"" E: 028' 51' 091""",Manyiel,Tonj 
+93,2011,"N: 08' 09' 020"" E: 028' 58' 431""",Tharakon,Tonj 
+94,2011,"N: 08' 08' 895"" E: 028' 55' 612""",Aguor,Tonj 
+95,2011,"N: 08' 00' 945"" E: 028' 50' 661""",Anaak,Tonj 
+96,2011,"N: 08' 06' 824"" E: 029' 10' 954""",Ayuang,Tonj 
+97,2011,"N: 08' 04' 770"" E: 029' 13' 263""",Angotbuol,Tonj 
+98,2011,"N: 08' 06' 977"" E: 029' 14' 096""",Gangmiir,Tonj 
+99,2011,"N: 08' 12' 194"" E: 029' 17' 309""",Gormok,Tonj 
+100,2011,"N: 08' 17' 613"" E: 029' 14' 929""",Wunkuel,Tonj 
+101,2011,"N: 08' 19' 761"" E: 029' 10' 369""",Acholok,Tonj 
+102,2011,"N: 08' 18' 615"" E: 029' 08' 294""",Ahoobu,Tonj 
+103,2011,"N: 08' 14' 401"" E: 029' 06' 273""",Aguoch,Tonj 
+104,2011,"N: 08' 22' 373"" E: 029' 07' 577""",Makuach,Tonj 
+105,2012,"N: 08' 09' 628"" E: 028' 17' 773""",Lualgol Primary School,Gogrial
+106,2012,"N: 08' 10' 132"" E: 028' 16' 271""",Wun Abyei,Gogrial
+107,2012,"N: 08' 12' 337"" E: 028' 25' 358""",Thiou Primary ,Gogrial
+108,2012,,Kuoch,Tonj 
+109,2012,"N: 08' 34' 470"" E: 028' 48' 061""",Makuach Rual,Tonj 
+110,2012,"N: 08' 32' 804"" E: 028' 49' 964""",Mabior Duor,Tonj 
+111,2012,"N: 08' 36' 169"" E: 028' 50' 528""",Majok,Tonj 
+112,2012,"N: 08' 36' 169"" E: 028' 53' 175""",Nyibiir,Tonj 
+113,2012,"N: 08' 32' 468"" E: 28' 54' 516""",Achol Paleu,Tonj 
+114,2012,"N: 08' 32' 180.8"" E: 028' 56' 779""",Roorngek,Tonj 
+115,2012,"N: 08' 32' 328"" E: 028' 57' 251""",Ruel Marial,Tonj 
+116,2012,"N: 08' 31' 151"" E: 028' 56' 568""",Akok Mawien,Tonj 
+117,2012,"N: 08' 28' 505"" E: 028' 55' 256""",Amentnyang,Tonj 
+118,2012,"N: 08' 22' 982"" E: 029' 08' 392""",Ahoony,Tonj 
+119,2012,"N: 08' 29' 470"" E: 028' 57' 583""",Ariik Agek,Tonj 
+120,2012,"N: 08' 36' 305"" E: 028' 49' 668""",Majaklou,Tonj 
+121,2012,"N: 08' 34' 378"" E: 028' 44' 451""",Amoukou,Tonj 
+122,2012,"N: 08' 32' 008"" E: 028' 27' 512""",Lilmantang,Gogrial
+123,2012,"N: 08' 34' 623"" E: 028' 27' 151""",Chueipuol,Gogrial
+124,2012,"N: 08' 34' 028"" E: 028' 27' 198""",Bokagok,Gogrial
+125,2012,"N: 08' 33' 623"" E: 028' 30' 135""",Wunachier,Gogrial
+126,2012,"N: 08' 33' 151"" E: 028' 30' 124""",Machar,Gogrial
+127,2012,"N: 08' 36' 380"" E: 028' 28' 554""",Lietnhom Market,Gogrial
+128,2012,"N: 08' 30' 916"" E: 028' 27' 234""",Wunleet,Gogrial
+129,2012,"N: 08' 26' 631"" E: 028' 25' 481""",Mayomchol,Gogrial
+130,2012,"N: 08' 24' 371"" E: 028' 27' 487""",Ruot,Gogrial
+131,2012,"N: 08' 11' 957"" E: 028'  24' 382""",Lilthieu,Gogrial
+132,2012,"N: 08' 18' 397"" E: 028' 35' 679""",Parieng,Gogrial
+133,2012,"N: 08' 15' 538"" E: 028' 35' 786""",Chueiluel,Gogrial
+134,2012,"N: 08' 15' 763"" E: 028' 35' 320""",Roorchol,Gogrial
+135,2012,"N: 08' 10' 773"" E: 028' 17' 192""",Alongdior,Gogrial
+136,2012,"N: 07' 43' 250"" E: 028' 02' 350""",Haijur,Wau
+137,2012,"N: 07' 43' 481"" E: 028' 02' 159""",Haijur,Wau
+138,2013,,Bicha,
+139,2013,,Wunkuel,
+140,2013,,Padieng,
+141,2013,,Machar Adhor,
+142,2013,,Mathel Teng,
+143,2013,,Ajak Dit,
+144,2013,"N: 08' 21' 195"" E: 028' 24' 433""",Majok Abuok,Gogrial
+145,2013,"N: 08' 09' 804"" E: 028' 19' 916""",Lueth Buol,Gogrial
+146,2013,"N: 08' 08' 353"" E: 028' 18' 910""",Mangar Ciec,Gogrial
+147,2013,"N: 08' 07' 805"" E: 028' 18' 126""",Atiokpiu,Gogrial
+148,2013,"N: 9. 161565"" E: 28. 397066""",Buat Angui,Twic
+149,2013,"N: 9. 149380"" E: 28. 395024""",Wuriang,Twic
+150,2013,"N: 9.159964"". E: 28.403964""",Amieat,Twic
+151,2013,"N: 9. 164053"" E: 28. 374056""",Mabil,Twic
+152,2013,"N: 8.919170"" E: 27. 426940"" ",Kueech Pareng,Twic
+153,2013,"N: 8. 846701"" E: 28. 247108""",Kueech,Gogrial
+154,2013,"N: 8. 864719"" E: 28. 070154""",Marol Athokpur,Gogrial
+155,2013,"N: 8. 864317"" E: 28.084884""",Machar Kuel,Gogrial
+156,2013,"N: 8. 893365"" E: 27. 950044""",Akon,Gogrial
+157,2013,"N: 8. 666810"" E: 27. 995542""",Nyok Thiang,Gogrial
+158,2013,"N: 8. 727341"" E: 27' 995542""",Thurbol,Gogrial
+159,2013,"N: 8. 564075"" E: 28. 036691""",Ngapadhiang,Gogrial
+160,2013,"N: 08' 32' 026"" E: 028' 05' 695""",Gogial Market,Gogrial
+161,2013,"N: 07' 43' 595"" E: 028' 02' 183""",Hai Kubur,Wau
+162,2013,"N: 07' 43' 581"" E: 028' 02' 064""",Hella Jadiit,Wau
+163,2013,,Riang Alek,
+164,2013,,Manyang Primary,
+165,2013,,Kernyiel,
+166,2013,"N: 08' 07' 278"" E: 028' 16' 827""",Pan Koot,Gogrial
+167,2013,"N: 08' 13'  695"" E: 028' 23' 921""",Akuocic,Gogrial
+168,2013,,Aguor,
+169,2013,,Luala,
+170,2013,,Warchum,
+171,2013,,Ajuong,
+172,2013,,Kayil,
+173,2013,"N: 07' 42' 669"" E: 028' 02' 113""",Rum Kueel,Wau
+174,2013,"N: 07' 42' 902"" E: 028' 02' 303""",Hai Kor,Wau
+175,2013,"N: 07' 42' 818"" E: 28' 02' 426""",Sumut,Wau
+176,2013,"N: 07' 42' 500"" E: 028' 02' 198""",Majama,Wau
+177,2013,"N: 07' 42' 705"" E: 028' 02' 361""",Majak Amaal,Wau
+178,2013,"N: 08' 07' 103"" E: 028' 23' 642""",Pankot (Komgol Primary School),Tonj 
+179,2012,"N: 08' 05' 490"" E: 028' 27' 487""",Akurbiok,Tonj 
+180,2013,"N: 08' 09' 459"" E: 028' 27' 147""",Majaktit,Tonj 
+181,2013,"N: 08' 07' 398"" E: 028'19' 971""",Malekabiem,Tonj 
+182,2013,"N: 08' 13' 205"" E: 028' 22' 082""",Anguei,Gogrial
+183,2013,"N: 08' 16' 094"" E: 028' 20' 907""",Makerjok,Gogrial
+184,2013,"N: 08' 15' 183"" E: 028' 24' 813""",Malualamuk ,Gogrial
+185,2014,"N: 08' 15' 02"" E: 028' 19' 507""",Awudo,Gogrial
+186,2014,"N: 08' 40' 720"" E: 027' 20' 697""",Kokping,Gogrial
+187,2014,"N: 08' 06' 882"" E: 028' 19' 606""",Titchok,Tonj 
+188,2014,"N: 08' 06' 882"" E: 028' 19' 607""",Lounoi Primary School,Tonj 
+189,2014,"N: 08' 05' 012"" E: 028' 37' 333""",Kuelakuak Primary School,Tonj 
+190,2014,"N: 08' 05' 354"" E: 028' 37' 643""",Angon,Tonj 
+191,2014,"N: 08' 05' 517"" E: 028' 39' 086""",Ayakakat,Tonj 
+192,2014,"N: 08' 07' 184"" E: 028' 36' 366""",Dhak,Tonj 
+193,2014,"N: 08' 05' 431"" E: 028' 38' 172""",Warrap Town,Tonj 
+194,2014,"N: 08' 04' 953"" E: 028' 39' 036""",Wunchuei,Tonj 
+195,2014,"N: 08' 05' 584"" E: 028' 38' 700""",Kuelchok,Tonj 
+196,2014,"N: 07' 44' 643"" E: 028' 32' 355""",Gaiyar (Rumrual),Tonj 
+197,2014,"N: 07' 45' 118"" E: 028' 34' 835""",Mouralol/Warngap,Tonj 
+198,2014,"N: 07' 50' 218"" E: 028' 04' 392""",Pajiing,Tonj 
+199,2014,"N: 07' 51' 790"" E: 028' 03' 487""",Nguetawan,Tonj 
+200,2014,"N: 07' 44' 968"" E: 028' 06' 064""",Yelbok,Tonj 
+201,2014,"N: 07' 44' 699"" E: 029' 04' 919""",Athieng,Tonj 
+202,2014,"N: 07' 47' 486"" E: 028' 07' 817""",Tabarachuol ,Tonj 
+203,2014,"N: 07' 50' 608"" E: 029' 10' 605""",Agumot,Tonj 
+204,2014,"N: 07' 49' 269"" E: 029' 19' 937""",Panyanbech ,Tonj 
+205,2014,"N: 07' 58' 440"" E: 029' 15' 984""",Ajiecwel,Tonj 
+206,2014,"N: 07' 55' 014"" E: 029' 02' 090""",Patiaw,Tonj 
+207,2014,"N: 08' 20' 113"" E: 028' 57' 422""",Achuilkot ,Tonj 
+208,2014,"N: 08' 20' 948"" E: 028' 53' 343""",Yomkot,Tonj 
+209,2014,"N: 08' 21' 019"" E: 028' 54' 751""",Ngap  Deng Noon ,Tonj 
+210,2014,"N: 08' 14' 259"" E: 028' 47' 203""",Akolawet,Tonj 
+211,2014,"N: 08' 09' 523"" E: 028' 32' 848""",Angotgep,Tonj 
+212,2014,"N: 08' 09' 868"" E: 028' 18' 625""",Lacdiitwut ,Gogrial
+213,2014,"N: 08' 03' 315"" E: 028' 11' 794""",Manyang,Gogrial
+214,2014,"N: 08' 05' 830"" E: 028' 15' 053""",Wuntim,Gogrial
+215,2014,"N: 07' 59' 627"" E: 028' 10' 321""",Wunngot,Gogrial
+216,2014,"N: 07' 42' 855"" E: 028' 02' 556""",Samut,Wau
+217,2014,"N: 07' 42' 756"" E: 028' 02' 219""",Alalnhom,Wau
+218,2015,"N: 07' 40' 524"" E: 028' 05' 173""",Kuanya,Wau
+219,2015,,Yiikador Primary School,
+220,2015,,Yiikador Market,
+221,2015,,Riangamom,
+222,2015,,Gemanguei,
+223,2015,"N: 08' 19' 510"" E: 028' 24' 439""",Mawut,Gogrial
+224,2015,"N: 08' 12' 658"" E: 028' 21' 202""",Chueiakol,Gogrial
+225,2015,,Amouthic Yiik-adoor,
+226,2015,,Rormachar,
+227,2015,"N: 08' 18' 346"" E: 028' 25' 993""",Aker Adoor,Gogrial
+228,2015,"N: 08' 17' 852"" E: 027' 25' 105""",Aker Abuok,Gogrial
+229,2015,,Alorweng,
+230,2015,,Maper-Agany Agany,
+231,2015,,Mayenrual,
+232,2015,,Chueibet,
+233,2015,,Rumkuel,
+234,2015,,Maneilageb,
+235,2015,,Anguei,
+236,2015,,Warcuei,
+237,2015,,Ariech,
+238,2015,,Achom,
+239,2015,,Didar,
+240,2015,,Makuei,
+241,2015,,Payier (Bul-Agap),
+242,2015,"N: 08' 19' 133"" E: 028' 25' 109""",Watagok,Gogrial
+243,2015,,Patemkou,
+244,2015,,Amothich (Amuk),
+245,2015,,Angui Karich,
+246,2015,,Kumyuk,
+247,2015,,Madink Kuel,
+248,2015,,Acuok,
+249,2015,,Rorkou,
+250,2015,,Nhomlei,
+251,2015,,Pantiit,
+252,2015,,Makuac,
+253,2015,,Kuelek-War,
+254,2015,,Kuelek-Wut,
+255,2015,,Thurnyior Primary School,
+256,2015,"N: 07' 47' 418"" E: 028' 05' 500""",Mayen-Amith,Wau
+257,2015,"N: 07' 47' 418"" E: 028' 05' 497""",Achuirdit,Wau
+258,2015,,Aru Junction,
+259,2015,,Chalara,Juba
+260,2016,"N: 9. 066191"" E: 28. 313298""",Majook Ken,Twic
+261,2016,"N: 9:088089"" E: 28. 306149""",Bookanyara,Twic
+262,2016,"N: 09 14' 715"" E: 028' 21' 778""",Wun-nyok,Twic
+263,2016,"N: 08' 54' 381"" E: 028' 16' 103""",Mager,Gogrial
+264,2016,"N: 08' 54' 630"" E: 028' 15' 143""",Atuet,Gogrial
+265,2016,"N: 08' 50' 742"" E: 028' 15' 601"" ",Panliet Market,Gogrial
+266,2016,"N: 8. 809108"" E: 28. 240486"" ",Malek Akol,Gogrial
+267,2016,"N: 08' 36' 660"" E: 028' 06' 427""",Atokngar,Gogrial
+268,2016,"N: 08' 36' 930"" E: 028' 05' 950""",Lilthok,Gogrial
+269,2016,"N: 8. 597584"" E: 28. 148838""",Gaikou,Gogrial
+270,2016,"N: 08' 32' 615"" E: 028' 10' 341"" ",Wunkech,Gogrial
+271,2016,"N: 08' 34' 546""  E: 028' 11' 267""",Warngap,Gogrial
+272,2016,"N: 08. 224033"" E: 27. 965679""",Mouraruor Primary School,Gogrial
+273,2016,"N: 08' 01' 623"" E: 027' 59' 750""",Mabior Dong,Gogrial
+274,2016,"N: 08' 03' 115"" E: 027' 59' 908""",Kuenycariik,Gogrial
+275,2016,"N: 07' 43' 138"" E: 028' 01' 864""",Hel-Jadid,Wau
+276,2016,"N: 07' 44' 973"" E: 028' 03' 804""",Mawach,Wau
+277,2016,"N: 07' 44' 599"" E: 028' 01' 717"" ",Eastern Bank Football Field,Wau
+278,2016,"N: 07' 44' 399"" E: 028' 03' 191""",Malualkuel,Wau
+279,2016,"N: 07' 41' 308"" E: 028' 00' 276""",Wau South Epsicopal Church,Wau
+280,2016,04 21 48.84 N 031 58 53.60 E,Aru Junction,Central Equatoria
+281,2016,04 33 52.79 N 032 02 58.70 E,Ofiri (Langabu),Central Equatoria
+282,2016,04 39 28.96 N 032 04 51.21 E,Lirya Center,Central Equatoria
+283,2017,"N: 07; 59' 160"" E: 028' 10' 224""",Chuei Ajang,Wau
+284,2017,"N: 08'  01' 318"" E: 028  10  906"" ",Tit- Marol,Wau
+285,2017,"N: 08' 01' 422""  E: 028' 01' 347"" ",Lith Angui ,Wau
+286,2017,"N: 08' 03' 188"" E: 028' 13' 401""",Liethok ,Wau 
+287,2017,"N: 08 02  708"" E: 028' 12'  473""",Manyang-Nyorich ,Wau
+288,2017,"N: 08'' 03 762"" E: 028' 10' 755""",Akoc-Chok,Wau
+289,2017,"N:  07' 59' 385"" E: 028' 08' 489'",Pathich ,Wau
+290,2017,"N: 08' 06' 924"" E: 028 09 ' 949""",Mangar Adet,Wau
+291,2017,"N: 08' 05' 731"" E: 028' 09' 841""",Athiaan Akuei,Wau
+292,2017,"N: 08' 05' 022' E: 028' 10' 730""",Angobich,Wau
+293,2017,"N: 08' 36' 812""  E: 028' 29' 057""",Ror-Atiny,Gogrial
+294,2017,"N: 08' 13' 223"" E 028' 07' 252""",Warkot ,Gogrial
+295,2017,"N: 08' 12' 609"" E: 028' 06' 158""",Marol Ajing,Gogrial
+296,2017,"N: 08' 13' 815"" E: 028' 06' 568""",Rai,Gogrial
+297,2017,"N: 08' 15' 736"" E: 028' 02' 351""",Dutcuar,Gogrial
+298,2017,"N: 08' 16' 128"" E: 028' 02' 741""",Adhothok,Gogrial
+299,2017,"N: 08' 15' 448"" E: 028' 02' 466""",Dutcuar Primary School,Gogrial
+300,2017,"N: 08' 17' 059"" E: 028' 05' 025"" ",War Ding,Gogrial
+301,2017,"N: 08' 18' 115"" E: 028' 06' 207""",Thiou,Gogrial
+302,2017,"N: 08' 02' 935"" E: 028' 11' 507""",Manyang Payam,Gogrial
+303,2017,"N: 08' 06' 251"" E: 028' 14' 425""",Wuntim,Gogrial
+304,2017,"N: 08' 06' 177"" E: 028' 13' 779""",Lorutiu,Gogrial
+305,2017," N:07' 45' 10.81"" E: 027' 59' 167"" ",Zagolona Primary School,Wau
+306,2018,"N: 08' 55' 967"" E: 027' 30' 982""",Luethwek,Aweil East
+307,2018,"N: 08' 55' 588"" E: 027' 31' 575""",Rolthok,Aweil East
+308,2018,"N:08' 56' 089""  E: 027' 30' 139""",Pajok,Aweil East
+309,2018,"N: 08' 55' 790"" E: 027' 30' 337"" ",Wathaleu,Aweil East
+310,2018,"N: 08' 53' 536""  E: 027' 26' 585""",Riang-Mal,Aweil East
+311,2018,"N: 08' 52' 938"" E: 027' 26' 078"" ",Warakoon,Aweil East
+312,2018,"N: 08' 54' 044"" E: 027' 27' 031""",Anguek,Aweil East
+313,2018,"N: 08' 52' 501"" E: 027' 25' 952"" ",Lueth-Agok,Aweil East
+314,2018,"N: 08' 53' 103"" E: 027' 29' 361"" ",Kouyic,Aweil East
+315,2018,"N: 08' 52' 568"" E: 027' 29' 520"" ",Aruelpiu ,Aweil East
+316,2018,"N: 08' 53' 080"" E: 027' 28' 492""",Matiat Cuei,Aweil East
+317,2018,"N: 08' 51' 144"" E: 027' 30'  874""",War-Nyiel ,Aweil East
+318,2018,"N: 08' 52' 827"" E: 027' 28' 853"" ",Gukathie,Aweil East
+319,2018,"N: 08' 52' 109"" E: 027' 28' 061"" ",Kar-Makuach ,Aweil East
+320,2018,"N: 08' 52' 319"" E: 027' 26' 922"" ",Majook Achien ,Aweil East
+321,2018,"N: 08' 51' 689"" E: 027' 26' 498"" ",Wut-Nyap,Aweil East
+322,2018,"N: 08' 53' 592"" E: 027' 25' 080"" ",Abany,Aweil East
+323,2018,"N: 08' 52' 116"" E: 027' 29' 858"" ",Mabil,Aweil East
+324,2018,"N: 08' 52' 605"" E: 027' 29' 135"" ",Jok-Thok,Aweil East
+325,2018,"N: 08' 52' 124"" E: 027' 29' 135"" ",Arieny-Piny A,Aweil East
+326,2018,"N: 09' 02' 202"" E: 027' 34' 705""",Parot-Aker,Aweil East
+327,2018,"N: 08' 45' 383"" E: 027' 27' 727""",Newsite,Aweil  
+328,2018,"N:08' 44' 587"" E: 027' 27' 240"" ",Lil-Miir,Aweil
+329,2018,"N: 08' 44' 486"" E: 027' 25' 958""",Lol - Kou ,Aweil
+330,2018,"N: 08' 45' 204"" E: 027' 25' 383"" ",Pan-Malou ,Aweil
+331,2018,"N: 08' 45' 502"" E: 027' 26' 358""",Majok Kuel,Aweil 
+332,2018,"N:08' 43' 720"" E: 027' 26' 711"" ",Riangangor,Aweil
+333,2018,"N: 08' 38' 818"" E: 027' 35' 801"" ",Wakthou,Aweil
+334,2018,"N:08' 23' 215"" E: 027' 48' 715"" ",Ayok Dhok Primary School,Wau
+335,2018,"N: 08' 24' 005"" E: 027' 49' 219""",Riang Kuol Bol,Wau
+336,2018,"N: 08' 18' 143"" E: 027' 48' 674"" ",Ajiekdit Primary School,Wau
+337,2018,"N: 08' 17' 539"" E: 027' 47' 507""",Amulmul Primary School,Wau
+338,2018,"N: 08' 09' 573"" E: 027' 43' 137""",Waradhoth ,Wau
+339,2018,"N: 08' 02' 562"" E: 027' 40' 622""",Barkiny,Wau
+340,2018,"N: 08' 04'829"" E: 027' 44' 133"" ",Laach,Wau
+341,2018,"N: 07' 48' 381' E: 027' 53' 693"" ",Cumbar,Wau
+342,2018,"N: 07' 45' 043"" E: 027' 59' 314""",Hai Kamsin,Wau
+343,2018,"N: 07' 45' 268' E: 027' 59' 422""",Jebel-Chok,Wau
+344,2018,"N: 08' 07' 267: E: 028' 01' 395"" ",Eastern Bank,Wau
+345,2018,"N: 07' 44' 204' E: 028' 00' 118""",Hai Jadit,Wau
+346,2018,"N: 07' 43' 121"" E: 027' 59' 874""",Hai Jadit,Wau
+347,2018,"N: 07' 43' 410"" E: 027' 59' 873",Hai Jadit,Wau
+348,2018,"N: 07' 43' 008"" E: 027' 59' 875""",Hai Jadit,Wau
+349,2018,"N: 07' 42' 707"" E: 028' 00' 011""",Hai Jadit,Wau
+340,2018,"N: 07' 43' 422"" E: 028' 02' 348""",Kong Long,Wau
+341,2019,"N:08' 19' 793""  E: 028' 30' 9""",Belbuoc,Tonj
+342,2019,"N: 08' 22' 536"" E: 028' 42' 731""",Makuac-rual,Tonj
+343,2019,"N: 08' 23' 528"" E: 028' 35' 453""",Thor-Amiyok,Tonj
+344,2019,"N: 08' 23' 974"" E: 028' 50' 575""",Adiaujook,Tonj
+345,2019,"N: 08' 36' 344"" E: 028' 52' 265""",Thou-yiik,Tonj
+346,2019,"N: 08' 30' 503"" E: 028' 45' 507""",Paweny,Tonj
+347,2019,"N: 08' 36' 263"" E: 028' 52' 264""",Lath-jak,Tonj
+348,2019,"N: 08' 32' 003"" E: 028' 56' 676""",Mayen-Awakou,Tonj
+349,2019,"N: 08' 28' 702"" E: 028' 58' 624""",Mangot ,Tonj
+350,2019,"N: 08' 29' 118"" E: 028' 55' 919""",Alatip,Tonj
+351,2019,"N: 08' 26' 214"" E: 028' 56' 166""",Marial-Adot Pri. School,Tonj
+352,2019,"N: 08' 26' 221"" E: 028' 56' 178""",Marial Akech Primary Sch,Tonj
+353,2019,"N: 08' 32' 436"" E: 028' 55' 704""",Wunkuel,Tonj
+354,2019,"N: 08' 33' 895"" E: 028' 54' 847""",Lang Kap,Tonj
+355,2019,"N: 08' 34' 765"" E: 028' 53' 861""",Riangper,Tonj
+356,2019,"N: 08' 35' 400"" E: 028' 48' 512""",Panhom-Lang,Tonj
+357,2019,"N: 08' 14' 447"" E: 028' 59' 347""",Dargon,Tonj
+358,2019,"N: 08' 14' 111"" E: 028' 14' 123""",Mamal,Tonj
+359,2019,"N: 08' 14' 095"" E: 028' 00' 736""",Majur ,Tonj
+360,2019,"N: 08' 18' 590"" E: 028' 59' 509""",Aker-aher,Tonj
+361,2019,"N: 08' 04' 159"" E: 028' 54' 447""",Achol,Tonj
+362,2019,"N: 07' 5.94' 708"" E: 028' 34' 372""",Akotdit,Tonj
+363,2019,"N: 08' 01 ' 438"" E: 028' 56' 387""",War-thou,Tonj
+364,2019,"N: 08' 02' 363"" E: 028' 00' 269""",Malou,Tonj
+365,2019,"N: 08' 59' 362"" E: 028' 01' 557"" ",Achir,Tonj
+366,2019,"N: 08' 06' 192"" E: 028' 55' 018""",Wun-Adhot,Tonj
+367,2019,"N: 08' 04' 046"" E: 028' 58'  563""",Ga-Gir,Tonj
+368,2019,"N: 08' 04' 173"" E: 028' 52' 249""",Wunkuel,Tonj
+369,2019,"N: 08' 04' 253"" E: 028' 54' 725""",Mayen-Dong ,Tonj
+370,2019,"N: 08' 10' 891"" E: 028' 19' 456""",Aduktik Primary School,Gogrial
+371,2019,"N: 08' 10' 410"" E: 028' 24' 371""",Maluil,Gogrial
+372,2019,"N: 07' 52' 093"" E: 028' 23' 959"" ",Wunkuel,Tonj
+373,2019,"N: 08' 08' 061"" E: 028' 23' 134""",Aguath,Tonj
+374,2019,"N: 08' 07' 623"" E: 028' 24' 129""",Pool Chang,Tonj
+375,2019,"N: 07' 48' 074"" E: 028' 15' 320""",Wun-Agep,Tonj
+376,2019,"N: 08' 09' 023"" E: 028' 21' 483""",Mangar-Kiech,Gogrial
+377,2019,"N: 08' 09' 109"" E: 028' 15' 389"" ",Achuk Primary School,Gogrial
+378,2019,"N: 08' 09' 870"" E: 028' 17' 263""",Rumkuel,Gogrial
+379,2019,"N: 08' 11' 733"" E: 028' 17' 588""",Waryar,Gogrial
+380,2019,"N: 08' 10' 166"" E: 028' 10' 205""",Riak-bet,Gogrial
+381,2019,"N: 07' 42' 430"" E: 028' 02' 053""",Block-E,Wau
+382,2019,"N: 07' 41' 635"" E: 028' 00' 277",Sunday Primary School ,Wau
+383,2019,"N: 07' 40' 565"" E: 028' 00' 638",Rumbek Jadit,Wau
+384,2019,"N: 07' 40' 014"" E: 028' 01' 203""",Majak ,Wau
+385,2019,"N: 07' 41' 232"" E: 027' 59' 006""",Hai Jebel-kher and Bright Future S.S,Wau
+386,2019,"N: 07' 40' 604"" E: 028' 00' 466"" ",Nazareth ,Wau
+387,2019,"N: 07' 43' 643"" E: 027' 50' 965""",Bilpam ,Wau 
+388,2019,"N: 07' 42' 037"" E: 028' 00' 054""","Wau "" A"" Girls Primary School",Wau
+389,2019,"N: 07' 40' 937"" E: 028' 00' 350""",Nazareth ,Wau
+400,2019,"N: 07' 41' 633"" E: 027' 59' 623",Hai Jebel ,Wau
+401,2019,N: 7.821955. E: 27.933984,Warhuk,Wau
+402,2019,N:7.925305.  E: 27. 983570,Ger-Ajiep,Wau
+403,2019,N: 7.918773. E: 27.983958,Beling Achol,Wau
+404,2019,N: 8.120638. E: 27.946019,Riangnhom ,Gogrial 
+405,2020,N: 8.272458. E: 28.063678,Adhothic ,Gogrial 
+406,2020,N: 8. 193789. E: 28.147642,Khiiric Primary School,Gogrial 
+407,2020,N: 9. 060578. E: 28.320100,Majok Ken ,Twic
+408,2020,N: 9.117473. E: 28.357209,Gumgoi,Twic
+409,2020,N: 8. 736813. E: 28.145308,Malek Ngok Primary School,Gogrial 
+410,2020,N: 8.598692. E: 28.331118,Maluil Aluel - Primary School,Gogrial 
+411,2020,N: 8.633077. E: 28. 314612,Buon-Nyoor,Gogrial 
+412,2020,N: 8.686607. E: 28.291045,Wuntit,Gogrial 
+413,2020,N: 8.284778. E: 28.124869,Nyiorthok Marul,Gogrial 
+414,2020,N: 8.716270. E: 28.368261,Achool/Abuokdiit,Gogrial 
+415,2020,N: 8.707364. E: 28.363945,Panyuom,Gogrial 
+416,2020,N: 8.675292. E: 28.397801,Marial Akuien Primary School,Gogrial 
+417,2020,N: 8. 6246697. E: 28. 37619618,Rum-muoth ,Gogrial 
+418,2020,N: 8. 6201619: E: 28. 36936978,Panthony,Gogrial 
+419,2020,N: 8. 61242638: E: 28. 35522328,Panchier Primary School,Gogrial
+420,2020,N: 8. 60221412: E: 28. 36086966,Patai,Gogrial 
+421,2020,N: 8. 777512: E: 28. 460207,Machar Akol,Gogrial 
+422,2020,N: 8. 707326: E: 28. 452977,Chuei Akuong/Pan Jak,Gogrial
+423,2020,N: 8. 696559: E: 28. 409151,Mayom Dunguer/Roordit ,Gogrial
+424,2020,"N: 8. 738526"": E: 28. 497476",Thuor Geng Anei,Gogrial
+425,2020,"N: 8. 727310"": E: 28: 512490",Galual Primary School,Gogrial
+426,2020,"N: 8. 840372"" E: 28. 545150",Agumuot ,Gogrial
+427,2020,"N: 8. 740261"" E: 28: 487870",Thur-Agaar,Gogrial
+428,2020,"N: 8. 850743"" E: 28. 560865",Tiit-thok,Gogrial 
+429,2020,"N: 8. 833539"" E: 28. 561873",Riang Mabior ,Gogrial 
+430,2020,"N: 8. 828808"" E: 28. 575213",Gong Peer Primary School,Gogrial 
+431,2020,"N: 7. 721550"" E: 28. 039115",Water for South Sudan-Compound ,Wau
+432,2020,"N: 8. 807506"" E: 28. 509123",Awutuop,Gogrial
+433,2020,"N: 8. 808575"" E: 28. 559001",Thur-juoth,Gogrial 
+434,2020,"N: 8. 801226"" E: 28. 528591",Chuei-Makiech,Gogrial 
+435,2020,"N: 8. 790194"" E: 28. 510969",Rumliet Primary School,Gogrial 
+436,2020,"N: 8. 816380"" E: 28. 510852",Majok Donguar Primary School,Gogrial
+437,2020,"N: 8. 7267353""  E: 28.5224032",Giny-jur,Gogrial 
+438,2020,"N: 8. 730420"" E: 28. 531277",Majak-Nyuom Primary School,Gogrial 
+439,2020,"N: 8. 737577"" E: 28. 535263",Marial -Nyap,Gogrial 
+440,2020,"N: 8. 71298694"" E: 28. 57218962",Adhuothic ,Gogrial 
+441,2020,"N: 8. 745362"" E: 28. 541494",Marial Pajieng,Gogrial 
+442,2020,"N: 8. 75550141"" E: 28. 56311892",Aringhok Primary School,Gogrial 
+443,2020,"N: 8. 74867388"" E: 28. 55802429",Rum Pagong,Gogrial 
+444,2020,"N: 8. 753115"" E: 28. 553037",Rum-panagok,Gogrial 
+445,2020,"N: 8. 76590122"" E: 28. 57867312",Atunga,Gogrial 
+446,2020,"N: 8. 770592"" E: 28. 587666",Mayen Atunga,Gogrial 
+447,2020,"N: 8. 797524"" E: 28. 618598",Alol,Gogrial 
+448,2020,"N: 8. 78329879"" E: 28. 61443451",Thurdong ,Gogrial 
+449,2020,"N: 8. 80055701"" E: 28. 63297898",Adel ,Gogrial
+450,2020,"N: 8. 796721"" E: 28. 488366",Gong Nyuon ,Gogrial 
+451,2020,"N: 8. 656609"" E: 28. 399453",Marial Thou,Gogrial
+452,2020,"N: 8. 662730"" E: 28. 404369",Panthou,Gogrial 
+453,2020,"N: 7. 995652"" E: 27. 800206",Abou Primary Health Care Unit,Wau
+454,2020,"N: 7. 851996"" E: 27. 899044",Atido Primary Health Care Unit ,Wau
+455,2020,"N: 7. 921080"" E: 27. 161494",Achuong-chuong Primary Health Care Center ,Wau
+456,2020,"N: 7. 628385"" E: 27. 105634",Nyikejo Primary Health Care Unit,Wau
+457,2020,"N: 7. 707176"" E: 27. 964336",Khor Ghana Jadeep Primary School,Wau
+458,2021,N: 8. 83 82 25 E: 28. 17 72 04,Rumameth,Gogrial West
+459,2021,N: 8.56 90 05  E: 28. 22. 59 96,Pajok Beck,Gogrial West
+460,2021,N: 8. 56 01 27 E: 28. 26 12 68,Aciec-kou,Gogrial West
+461,2021,N: 8. 86.  21 10 E: 28. 40 63 33,Majook Akotkuac,Gogrial West
+462,2021,N: 8. 71 13 51 E: 28. 42 36 57,Ajogo,Gogrial East
+463,2021,N: 8.82. 45 07 E: 28. 54. 18 91,Mangol,Gogrial East
+464,2021,N:8. 71 97 59  E: 28. 14. 22 84,Majook Ngok,Gogrial West
+465,2021,N: 8. 56.28 57 E: 28. 12. 40 96,Warngap,Gogrial West
+466,2021,N: 8.415950 E:28.344742,Pinydit,Gogrial East
+467,2021,N: 8. 41 38 29 E: 28. 37 26 17,Chur Primary School,Gogrial East
+468,2021,N: 8. 38 61 27 E: 28 31 47 96,Mawithou,Gogrial East
+469,2021,N: 8.33 32.54  E: 28. 29 34 98,Maker Akech,Gogrial East
+470,2021,N: 8. 22 85 45 E: 28. 39 13 95,Luonyaker Church,Gogrial East
+471,2021,N:8.37 78 39   E: 28.35 67 83,Lilmajak,Gogrial East
+472,2021,N: 8.35 10 07  E: 28. 35 40 34,Tarweng,Gogrial East
+473,2021,N: 8. 27 08 24 E: 28. 36 02 73,Pathoui,Gogrial East
+474,2021,N: 8. 28 42 75 E: 28. 38 58 93,Toluel,Gogrial East
+475,2021,N: 8. 32 37 43  E: 28. 39 45 30,Nyorthook,Gogrial East
+476,2021,N: 8. 21 32 64 E: 28. 39 56 08,Ahuoch bar,Gogrial East
+477,2021,N: 8.16 79 68 E: 28. 33 20 09,Ajak-Angon,Gogrial East
+478,2021,N: 8. 19 01 57 E:28.44 32 94,Patiek-Dier,Gogrial East
+479,2021,N: 8.22 47 78 E: 28.42 87 49,Nyiop-chop Primary,Gogrial East
+480,2021,N: 8. 22 14 05 E: 28. 30 94 22,Mabil,Gograil East
+481,2021,N: 8.12 68 29  E:28. 28 92 77,Halcok,Gogrial East
+482,2021,N: 8.21 15 01  E: 28. 45 81 43,Athiang,Gogrial East
+483,2021,N: 8. 00 36 63 E: 28. 03 3162,Mabior Abiem,Jur River
+484,2021,N: 7. 29 53 41 E: 28. 16 09 32,Marial Baai,Jur River
+485,2021,N: 7. 49 81 88 E: 28. 26 82 03,Kuarjiena,Jur River
+486,2021,N: 7. 57 48 01 E 28. 02 28 61,Warayat,Jur River
+487,2021,N:8.34 65 37  E: 28. 29 40 93,Ayen,Gogrial East
+488,2021,N: 8.33 29 19 E: 28. 25 48 68,Lietdit-Nhom,Gogrial East
+489,2021,N: 8.34 08 44 E: 28. 30 82 34,Awut-wut,Gogrial East
+490,2021,N: 8.42 47 28 E: 28. 46  98 89,Wut-Dong,Gogrial East
+491,2021,N: 8.40 13 20 E: 28. 37 76 23,Geng-agok,Gogrial East
+492,2021,N:8.41 44 03  E:28.39 57 64,Adol thiong,Gogrial East
+493,2021,N: 8.33 62 27 E:28.40 27 45,Keric Machar Awuong,Gogrial East
+494,2021,N: 8.41 20 90 E: 28.40 31 35,Jaac Kuac,Gogrial East
+495,2021,N: 8.38 38 28  E:28. 43 49 01,Mac-Ather,Gogrial East
+496,2021,N:8.21 02 23 E: 28. 49 35 50,Mawut-Ador,Gogrial East
+497,2021,N:8.24 39 60 E:28. 34 54 68,Rieng-piny,Gogrial East
+498,2021,N:8.30 58 20 E: 28. 40 65 99,Aker-Abuok,Gogrial East
+499,2021,N:8.41 92 20 E: 28. 42 63 66,Kuel,Gogrial East
+500,2021,N:8.39 96 16 E: 28. 43 99 31,Nyok-Nyok,Gogrial East
+501,2021,N:7.78 22 55 E: 27. 98 10 46,Alel-chok Primary School,Jur River
+502,2021,N: 7.77 78 47 E: 27. 97 81 29,Alel-chok PHCU,Jur River
+503,2021,N:7.94 63 20 E: 27 . 84 70 61,Gettee,Jur River
+504,2021,N: 7.69 39 59 E: 27.00 12 65,"RRC, Wau South Sudan",Wau
+505,2021,N:7. 67 88 02 E:27.99 43 09,Bazia Jedid PHCC,Wau
+506,2021,N:7.7048366 E:28.0388955,Pian-tok,Western Bahr-El-Ghazal
+507,2022,N:7.6848379 E:28.005877,Ukel Abanga Primary School -- KorKorongo,Western Bahr-El-Ghazal
+508,2022,N:7.717945  E:28.040872,Eastern bank - Salva's Farm,Western Bahr-El-Ghazal
+509,2022,N:7.7678804 E:29.066502,Wunyiik,Warrap
+510,2022,N:7.793340 E:29.038943,Makur,Warrap
+511,2022,N:7.786497  E:29.065389 ,Palam,Warrap
+512,2022,N:7.738077  E:29.025425,Marial Aguet,Warrap
+513,2022,N:7.737376 E:29.126798,Pakang,Warrap
+514,2022,N:7.804939 E:29.083346,Akol-Ngong ,Warrap
+515,2022,N:7.812046 E:29.109074,Mabior Makot,Warrap
+516,2022,N:8.542319 E:28.091526,Rieny,Warrap
+517,2022,N:7.8742206 E:29.0808412,Kuel - Abil,Warrap
+518,2022,N:7.891297 E:29.114612,Rak-Chiek,Warrap
+519,2022,N:7.828862 E:29.091834,Cum-Luol,Warrap
+520,2022,N:7.883845 E:29.104376,Danga,Warrap
+521,2022,N:7.850689 E:29.091872,War-Apor,Warrap
+522,2022,N:7.801082 E:28.995569,Gokdit,Warrap
+523,2022,N:7.741722 E:28.850067,Rak-Chok,Warrap
+524,2022,N:7.983249 E:29.310138,Aloor,Warrap
+525,2022,N:7.652340 E:28.730842,Anyiach,Warrap
+526,2022,N:7.803575 E:28.917345,Wun-Kuel Primary School,Warrap
+527,2022,N:7.965471 E:29.216538,Lol-lith,Warrap
+528,2022,N:7.755361 E:28.970739,Majok-Cileng,Warrap
+529,2022,N:7.729456 E:28.813597,Aleek,Warrap
+530,2022,N:7.715034 E:28.943102,Palal,Warrap
+531,2022,N:7.736124 E:28.973020,Kony-bai,Warrap
+532,2022,N:7.877131 E:29.437067,Aliet PHCU,Warrap
+533,2022,N:7.849500 E:29.435504,Ngem-Aker,Warrap
+534,2022,N:7.906851 E:29.4839798,Pagot,Warrap
+535,2022,N:8.107486 E:29.355963,Nyingor,Warrap
+536,2022,N:8.146744 E:29.329007,Wun-Cum,Warrap
+537,2022,N:8.138022 E:29.397375,Kol-Nyang,Warrap
+538,2022,N:7.835492 E:29.218730 ,Wunlit Market ,Warrap
+539,2022,N:7.617821 E:28.800362,Ageng,Warrap
+540,2022,N:7.611710 E:28.793657,Machar-Arol,Warrap
+541,2022,N:7.803732 E:28.951379,Wunkuel ,Warrap
+542,2022,N:8.090337 E:29.335422,Apuukdit ,Warrap
+543,2022,N:7.892494 E:29.433974,Adial,Warrap
+544,2022,N:7.748954 E:29.292710,Rumkier ,Warrap
+545,2022,N:7.862975 E:29.337619 ,Ajakdit,Warrap
+546,2022,N:7.972436 E:29.281650,Ayidit,Warrap
+547,2022,N:8.039875 E:29.488043,Madher,Warrap
+548,2022,N:8.084689 E:29.282149,Panak,Warrap
+549,2022,N:7.814375 E:29.233746,Jarweng,Warrap
+550,2022,N:7.900902 E:29.456491,Panur,Warrap
+551,2022,N:7.943559 E:29.302115,Tarweng,Warrap
+552,2022,N:7.987563 E:29.317100,Palieng Market,Warrap
+553,2022,N:7.977807 E:29.310230,Machar ,Warrap
+554,2022,N:7.601290 E:28.748522,Aluom,Warrap
+555,2022,N:7.711448 E:28.909863,Akier - Panyangthii,Warrap
+556,2022,N:8.280801 E:27.975449,Anguei,Warrap
+557,2022,N:7.683869 E:27.976275,Toby Primary School,Western Bahr-El-Ghazal
