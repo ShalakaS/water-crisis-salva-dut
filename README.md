@@ -21,6 +21,8 @@ As a majority of the South Sudanese population live in rural areas, it is a caus
 
 Therefore, even though it seems like the access to clean drinking water has increased, the number of people who have to walk to the source for more than 30 minutes has increased. 
 
+<img width="772" alt="Screenshot 2023-07-07 at 3 20 21 PM" src="https://github.com/ShalakaS/water-crisis-salva-dut/assets/8871052/97428419-32c8-4c9b-8e8b-bdc59b8cddb8">
+
 ### Data Collection Process
 The data was drawn from excel sheets published by Joint Monitoring Program (JMP) by UNICEF and WHO. They publish global data on Water Supply, Sanitation and Hygiene (WASH).
 
