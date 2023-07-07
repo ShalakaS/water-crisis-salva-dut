@@ -38,9 +38,15 @@ I first made grouped bars of rural population, grouped as per the access time an
 ### New Skills and Lessons Learned
 Making a statement about increase in access to a facility, purely based on raw numbers, is not a good idea. More often than not, the people behind the number have a different story to tell. 
 
-I learned to look at the shape of data in different perspectives in this process. After joining data from two sections, I could tell the difference in access over time. 
+I learned to **look at the shape of data** in different perspectives in this process. After joining data from two sections, I could tell the difference in access over time. 
 
-I also learned to build scrollytelling using JavaScript's Scrollama library. 
+I also learned to build **scrollytelling** using JavaScript's Scrollama library. 
+
+I also used ChatGPT to learn how to use the **folium** library in Python to build maps directly in HTML and change the base layers.
+
+
+![ezgif com-gif-maker](https://github.com/ShalakaS/water-crisis-salva-dut/assets/8871052/844bd1b8-4187-4cc5-a4cb-a1622ad4ba5e)
+
 
 ### Future of This Project
 I wish to find the people most impacted by this gap and learn from them, their experience of water collection and the impact it has on their life. 
